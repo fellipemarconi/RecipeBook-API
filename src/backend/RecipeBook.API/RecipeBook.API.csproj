@@ -11,10 +11,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\..\shared\RecipeBook.Communication\RecipeBook.Communication.csproj" />
     <ProjectReference Include="..\..\shared\RecipeBook.Exceptions\RecipeBook.Exceptions.csproj" />
     <ProjectReference Include="..\RecipeBook.Application\RecipeBook.Application.csproj" />
